@@ -2,8 +2,8 @@
 
 Meu nome é Gustavo Luiz de Quadra e seja bem-vindo ao meu GitHub, onde compartilharei conteúdos sobre Data Science.
 
-[![Author](https://img.shields.io/badge/Author-gustavolq-red.svg)](https://github.com/gustavolq)
-[![Linkedin](https://img.shields.io/badge/Linkedin-gustavoquadra-red.svg)](https://linkedin.com/in/gustavoquadra)
+[![Github](https://img.shields.io/badge/gustavolq-100000?style=plastic&logo=github&logoColor=white)](https://github.com/gustavolq)
+[![linkedin](https://img.shields.io/badge/gustavoquadra-0077B5??style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoquadra/)
 
 <p align="center">
   <img src="https://itchronicles.com/wp-content/uploads/2020/08/big-data-analysis.jpg" width = 75%>
