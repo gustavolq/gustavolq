@@ -11,12 +11,11 @@ Meu nome é Gustavo Luiz de Quadra e seja bem-vindo ao meu GitHub, onde comparti
 
 # Gustavo Luiz de Quadra
 
-[Linkedin](https://www.linkedin.com/in/gustavoquadra/) | [Repositório de Projetos Data Science](https://github.com/gustavolq/Projetos)
-
 Olá! Me chamo Gustavo Luiz de Quadra, catarinense de 21 anos e um estudante de Ciência da Computação apaixonado pela área de Ciência de Dados. Realizo a graduação de Ciência da Computação na faculdade [Universidade Cruzeiro do Sul ](https://www.cruzeirodosul.edu.br/) e também realizo a Formação Cientista de Dados da [Data Science Academy](https://www.datascienceacademy.com.br/) para me aprofundar na área de Ciência de Dados, visando me tornar um Cientista de Dados.
 
 Esse é um local aonde vou compartilhar aprendizados e experiências ao longo dessa minha jornada em Ciência de Dados!
 
+Caso queira visualizar os meus projetos de Data Science, podes acessar clicando [aqui](https://github.com/gustavolq/Projetos).
 <!--
 **gustavolq/gustavolq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
