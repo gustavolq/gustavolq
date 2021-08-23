@@ -14,12 +14,12 @@ To download my CV click in the icon --->
 [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png" />][Curriculo]
 
 ## Technologies and Tools 💻
-<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Python.png">
-<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/R.png">
-<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/SQL.png">
-<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Visual-Studio.png">
-<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linux.png">
-<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Windows.png"><br/><br/>
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Python.png">
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/R.png">
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/SQL.png">
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Visual-Studio.png">
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linux.png">
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Windows.png"><br/><br/>
 
 ## GitHub Stats 🚀
 
