@@ -1,32 +1,32 @@
-### Olá, prazer em conhecê-lo! 
+## Olá! Prazer em conhecê-lo! :wave:
 
-Meu nome é Gustavo Luiz de Quadra e seja bem-vindo ao meu GitHub, onde compartilharei conteúdos sobre Data Science.
+[<img align="left" alt="Gmail" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Gmail.png" />][Gmail]
+[<img align="left" alt="LinkedIn" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linkedin.png" />][LinkedIn]
+[<img align="left" alt="Kaggle" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Kaggle.png" />][Kaggle]
+[<img align="left" alt="LinkedIn" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Spotify.png" />][Spotify]<br/>
 
-[![linkedin](https://img.shields.io/badge/gustavoquadra-0077B5??style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoquadra/)
-[<img src="https://img.shields.io/badge/gglquadra@gmail.com-EA4335?style=plastic-square&logo=Gmail&logoColor=white" />](mailto:gglquadra@gmail.com)
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<p align="center">
-  <img src="https://itchronicles.com/wp-content/uploads/2020/08/big-data-analysis.jpg" width = 75%>
-</p>
+Me chamo **Gustavo Luiz de Quadra**, morador de SC-Brasil e estudante de Ciência da Computação e apaixonado pela área de Ciência de Dados, onde procuro me desenvolver para me tornar um futuro (não tão distante) Cientista de Dados!
 
-# Gustavo Luiz de Quadra
+## Download my CV (PT-BR Version)
+To download my CV click in the icon --->
+[<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png" />][Curriculo]
 
-Olá! Me chamo Gustavo Luiz de Quadra, catarinense de 22 anos e um estudante de Ciência da Computação apaixonado pela área de Ciência de Dados. Realizo a graduação de Ciência da Computação na faculdade [Universidade Cruzeiro do Sul ](https://www.cruzeirodosul.edu.br/) e também realizo a Formação Cientista de Dados da [Data Science Academy](https://www.datascienceacademy.com.br/) para me aprofundar na área de Ciência de Dados, visando me tornar um Cientista de Dados.
+## Technologies and Tools 💻
+<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Python.png">
+<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/R.png">
+<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/SQL.png">
+<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Visual-Studio.png">
+<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linux.png">
+<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Windows.png"><br/><br/>
 
-Esse é um local aonde vou compartilhar aprendizados e experiências ao longo dessa minha jornada em Ciência de Dados!
+## GitHub Stats 🚀
 
-Caso queira visualizar os meus projetos de Data Science, podes acessar clicando [aqui](https://github.com/gustavolq/Projetos).
-<!--
-**gustavolq/gustavolq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gustavolq&show_icons=true&theme=dark" alt="gustavolq" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Gmail]: mailto:gglquadra@gmail.com
+[LinkedIn]: https://www.linkedin.com/in/gustavoquadra/
+[Spotify]: https://open.spotify.com/user/x3z0vkgow695jglc3rvxpevnk
+[Curriculo]: https://drive.google.com/uc?id=1dtiMdKLeX8uRsmcOQQYs7drVSLO8Rry-&export=download
+[Kaggle]: https://www.kaggle.com/gustavoluizquadra
