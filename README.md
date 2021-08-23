@@ -11,7 +11,8 @@ I'm **Gustavo Luiz de Quadra**, resident of Santa Catarina-Brazil, Computer Scie
 
 ## View my resume by clicking on the icon
 
-PT-BR version --> [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png" />][Curriculo]
+PT-BR version [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png" />][CurriculoPTBR]<br/>
+EN version [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png" />][CurriculoEN]
 
 ## Technologies and Tools 💻
 <img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Python.png">
@@ -28,5 +29,6 @@ PT-BR version --> [<img align="center" alt="LinkedIn" height="20" width="20" src
 [Gmail]: mailto:gglquadra@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/gustavoquadra/
 [Spotify]: https://open.spotify.com/user/x3z0vkgow695jglc3rvxpevnk
-[Curriculo]: https://drive.google.com/file/d/1dtiMdKLeX8uRsmcOQQYs7drVSLO8Rry-/view
+[CurriculoPTBR]: https://drive.google.com/file/d/1dtiMdKLeX8uRsmcOQQYs7drVSLO8Rry-/view
+[CurriculoEN]: https://drive.google.com/file/d/1puaay50f4x7ziADFOr81jMEtaSqgBdQK/view
 [Kaggle]: https://www.kaggle.com/gustavoluizquadra
