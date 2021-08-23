@@ -11,7 +11,7 @@ I'm **Gustavo Luiz de Quadra**, resident of Santa Catarina-Brazil, Computer Scie
 
 [CLICK HERE](https://github.com/gustavolq/Projetos) to view my data science projects repository.
 
-## View my resume by clicking on the icon
+## Click on the icon and see my resume! 📄
 
 PT-BR version [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png" />][CurriculoPTBR]<br/>
 EN version [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png" />][CurriculoEN]
