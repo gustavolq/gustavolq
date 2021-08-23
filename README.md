@@ -9,7 +9,7 @@
 
 I'm **Gustavo Luiz de Quadra**, resident of Santa Catarina-Brazil, Computer Science student and passionate about Data Science, an area I'm studying to become a Data Scientist in the future!
 
-[CLICK HERE](https://github.com/gustavolq/Projetos) to view my projects repository.
+[CLICK HERE](https://github.com/gustavolq/Projetos) to view my data science projects repository.
 
 ## View my resume by clicking on the icon
 
