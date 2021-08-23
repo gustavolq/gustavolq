@@ -19,7 +19,7 @@ To download my CV click in the icon --->
 <img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/SQL.png">
 <img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Visual-Studio.png">
 <img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linux.png">
-<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Windows.png"><br/><br/>
+<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Windows.png"><br/><br/><br/>
 
 ## GitHub Stats 🚀
 
