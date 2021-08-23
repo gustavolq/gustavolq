@@ -9,6 +9,8 @@
 
 I'm **Gustavo Luiz de Quadra**, resident of Santa Catarina-Brazil, Computer Science student and passionate about Data Science, an area I'm studying to become a Data Scientist in the future!
 
+[CLICK HERE](https://github.com/gustavolq/Projetos) to view my projects repository.
+
 ## View my resume by clicking on the icon
 
 PT-BR version [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png" />][CurriculoPTBR]<br/>
@@ -20,7 +22,7 @@ EN version [<img align="center" alt="LinkedIn" height="20" width="20" src="https
 <img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/SQL.png">
 <img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Visual-Studio.png">
 <img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linux.png">
-<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Windows.png"><br/><br/>
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Windows.png"><br/>
 
 ## GitHub Stats 🚀
 
