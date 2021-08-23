@@ -5,7 +5,7 @@
 [<img align="left" alt="Kaggle" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Kaggle.png" />][Kaggle]
 [<img align="left" alt="LinkedIn" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Spotify.png" />][Spotify]<br/>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Code.gif" width="500" height="320" />
 
 Me chamo **Gustavo Luiz de Quadra**, morador de SC-Brasil e estudante de Ciência da Computação e apaixonado pela área de Ciência de Dados, onde procuro me desenvolver para me tornar um futuro (não tão distante) Cientista de Dados!
 
