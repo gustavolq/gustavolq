@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Code.gif" width="500" height="320" />
 
-I'm **Gustavo Luiz de Quadra**, resident of Santa Catarina, Brazil and Computer Science student and passionate about Data Science, an area I'm studying to become a Data Scientist in the future!
+I'm **Gustavo Luiz de Quadra**, resident of Santa Catarina-Brazil, Computer Science student and passionate about Data Science, an area I'm studying to become a Data Scientist in the future!
 
 ## View my resume by clicking on the icon
 
