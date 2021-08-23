@@ -5,7 +5,7 @@
 [<img align="left" alt="Kaggle" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Kaggle.png" />][Kaggle]
 [<img align="left" alt="LinkedIn" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Spotify.png" />][Spotify]<br/>
 
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 Me chamo **Gustavo Luiz de Quadra**, morador de SC-Brasil e estudante de Ciência da Computação e apaixonado pela área de Ciência de Dados, onde procuro me desenvolver para me tornar um futuro (não tão distante) Cientista de Dados!
 
@@ -19,7 +19,7 @@ To download my CV click in the icon --->
 <img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/SQL.png">
 <img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Visual-Studio.png">
 <img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linux.png">
-<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Windows.png"><br/><br/><br/>
+<img align="left" height="40" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Windows.png"><br/><br/>
 
 ## GitHub Stats 🚀
 
