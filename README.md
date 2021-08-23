@@ -1,4 +1,4 @@
-## Olá! Prazer em conhecê-lo! :wave:
+## Hey, nice to meet you! :wave:
 
 [<img align="left" alt="Gmail" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Gmail.png" />][Gmail]
 [<img align="left" alt="LinkedIn" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linkedin.png" />][LinkedIn]
@@ -7,11 +7,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Code.gif" width="500" height="320" />
 
-Me chamo **Gustavo Luiz de Quadra**, morador de SC-Brasil e estudante de Ciência da Computação e apaixonado pela área de Ciência de Dados, onde procuro me desenvolver para me tornar um futuro (não tão distante) Cientista de Dados!
+I'm **Gustavo Luiz de Quadra**, resident of Santa Catarina, Brazil and Computer Science student and passionate about Data Science, an area I'm studying to become a Data Scientist in the future!
 
-## Download my CV (PT-BR Version)
-To download my CV click in the icon --->
-[<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png" />][Curriculo]
+## View my resume by clicking on the icon
+
+PT-BR version --> [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png" />][Curriculo]
 
 ## Technologies and Tools 💻
 <img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Python.png">
@@ -28,5 +28,5 @@ To download my CV click in the icon --->
 [Gmail]: mailto:gglquadra@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/gustavoquadra/
 [Spotify]: https://open.spotify.com/user/x3z0vkgow695jglc3rvxpevnk
-[Curriculo]: https://drive.google.com/uc?id=1dtiMdKLeX8uRsmcOQQYs7drVSLO8Rry-&export=download
+[Curriculo]: https://drive.google.com/file/d/1dtiMdKLeX8uRsmcOQQYs7drVSLO8Rry-/view
 [Kaggle]: https://www.kaggle.com/gustavoluizquadra
