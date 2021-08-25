@@ -1,9 +1,9 @@
 ## Hey, nice to meet you! :wave:
 
-[<img align="left" alt="Gmail" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Gmail.png" />][Gmail]
-[<img align="left" alt="LinkedIn" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linkedin.png" />][LinkedIn]
-[<img align="left" alt="Kaggle" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Kaggle.png" />][Kaggle]
-[<img align="left" alt="LinkedIn" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Spotify.png" />][Spotify]<br/>
+[<img align="left" alt="Gmail" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Gmail.png?raw=true" />][Gmail]
+[<img align="left" alt="LinkedIn" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linkedin.png?raw=true" />][LinkedIn]
+[<img align="left" alt="Kaggle" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Kaggle.png?raw=true" />][Kaggle]
+[<img align="left" alt="LinkedIn" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Spotify.png?raw=true" />][Spotify]<br/>
 
 <img align="right" alt="GIF" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Code.gif" width="500" height="320" />
 
@@ -13,16 +13,16 @@ I'm **Gustavo Luiz de Quadra** from Santa Catarina-Brazil, Computer Science stud
 
 ## Click on the icon and see my resume! 📄
 
-PT-BR version [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png" />][CurriculoPTBR]<br/>
-EN version [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png" />][CurriculoEN]
+PT-BR version [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png?raw=true" />][CurriculoPTBR]<br/>
+EN version [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png?raw=true" />][CurriculoEN]
 
 ## Technologies and Tools 💻
-<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Python.png">
-<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/R.png">
-<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/SQL.png">
-<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Visual-Studio.png">
-<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linux.png">
-<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Windows.png"><br/>
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Python.png?raw=true">
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/R.png?raw=true">
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/SQL.png?raw=true">
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Visual-Studio.png?raw=true">
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linux.png?raw=true">
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Windows.png?raw=true"><br/>
 
 ## GitHub Stats 🚀
 
