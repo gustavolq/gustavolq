@@ -1,22 +1,23 @@
-## Hey, nice to meet you! :wave:
+## Olá, prazer em conhecer você! :wave:
+*Read this in other languages: [Portuguese-BR](README.md), [English](README_en.md)*
 
 [<img align="left" alt="Gmail" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Gmail.png?raw=true" />][Gmail]
 [<img align="left" alt="LinkedIn" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linkedin.png?raw=true" />][LinkedIn]
 [<img align="left" alt="Kaggle" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Kaggle.png?raw=true" />][Kaggle]
 [<img align="left" alt="LinkedIn" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Spotify.png?raw=true" />][Spotify]<br/>
 
-<img align="right" alt="GIF" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Code.gif" width="490" height="320" />
 
-I'm **Gustavo Luiz de Quadra** from Santa Catarina-Brazil, Computer Science student and passionate about Data Science, an area I'm studying to become a Data Scientist in the future!
+Eu sou Gustavo Luiz de Quadra, morador do estado de Santa Catarinense, estudante de Ciência da Computação e apaixonado pelo universo de Data Science, a área que estou estudando para me tornar um Cientista de Dados no futuro!
 
-[CLICK HERE](https://github.com/gustavolq/Projects) to view my Data Science and Data Analytics projects.
+[CLIQUE AQUI](https://github.com/gustavolq/Projects) para visualizar meus projetos de Data Science e Análise de Dados.
 
-## Click on the icon and see my resume! 📄
+## Clique no ícone para ver meu currículo!📄
 
-PT-BR version [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png?raw=true" />][CurriculoPTBR]<br/>
-EN version [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png?raw=true" />][CurriculoEN]
+Versão PT-BR [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png?raw=true" />][CurriculoPTBR]<br/>
+Versão EN [<img align="center" alt="LinkedIn" height="20" width="20" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Curriculum.png?raw=true" />][CurriculoEN]
 
-## Technologies and Tools 💻
+## Tecnologias e Ferramentas 💻
 <img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Python.png?raw=true">
 <img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/R.png?raw=true">
 <img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/SQL.png?raw=true">
@@ -24,7 +25,7 @@ EN version [<img align="center" alt="LinkedIn" height="20" width="20" src="https
 <img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linux.png?raw=true">
 <img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Windows.png?raw=true"><br/>
 
-## GitHub Stats 🚀
+## GitHub Status 🚀
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gustavolq&show_icons=true&theme=dark" alt="gustavolq" />
 
