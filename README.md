@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Code.gif" width="490" height="320" />
 
-Eu sou Gustavo Luiz de Quadra, morador do estado de Santa Catarinense, estudante de Ciência da Computação e apaixonado pelo universo de Data Science, a área que estou estudando para me tornar um Cientista de Dados no futuro!
+Eu sou **Gustavo Luiz de Quadra**, morador do estado de Santa Catarinense, estudante de Ciência da Computação e apaixonado pelo universo de Data Science, a área que estou estudando para me tornar um Cientista de Dados no futuro!
 
 [CLIQUE AQUI](https://github.com/gustavolq/Projects) para visualizar meus projetos de Data Science e Análise de Dados.
 
