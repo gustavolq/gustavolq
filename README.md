@@ -32,6 +32,6 @@ Versão EN [<img align="center" alt="LinkedIn" height="20" width="20" src="https
 [Gmail]: mailto:gglquadra@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/gustavoquadra/
 [Spotify]: https://open.spotify.com/user/x3z0vkgow695jglc3rvxpevnk
-[CurriculoPTBR]: https://drive.google.com/file/d/1g6PPmbXqV3SJDSKmPtYMSBQ8rFtF_Uzb/view
+[CurriculoPTBR]: https://gustavolq.github.io/assets/curriculum/Curriculo-GustavoQuadra.pdf
 [CurriculoEN]: https://drive.google.com/file/d/1puaay50f4x7ziADFOr81jMEtaSqgBdQK/view
 [Kaggle]: https://www.kaggle.com/gustavoluizquadra
