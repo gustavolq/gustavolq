@@ -1,5 +1,4 @@
 ## Olá, prazer em conhecer você! :wave:
-*Read this in other languages: [Portuguese-BR](README.md)
 
 [<img align="left" alt="Gmail" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Gmail.png?raw=true" />][Gmail]
 [<img align="left" alt="LinkedIn" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linkedin.png?raw=true" />][LinkedIn]
