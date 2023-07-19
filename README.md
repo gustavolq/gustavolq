@@ -28,7 +28,7 @@ Caso você queira conhecer um pouco mais de mim, você pode acessar o meu site [
 
 ## GitHub Status 🚀
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gustavolq&show_icons=true&theme=dark" alt="gustavolq" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gustavolq&show_icons=true&theme=dark&PAT_1" alt="gustavolq" />
 
 [Gmail]: mailto:gglquadra@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/gustavoquadra/
