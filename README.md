@@ -13,7 +13,7 @@ Caso você queira entrar em contato comigo ou me conhecer um pouco mais, fique �
 - Visualizar o meu [site portfólio](https://gustavolq.github.io/)
 
 ## Sobre mim 💡
-- 🔍 Explore os meus projetos de dados em [GitHub](https://github.com/gustavolq/Projetos).
+- 🔍 Explore os meus projetos de dados em [Projetos](https://github.com/gustavolq/Projetos).
 - 🌱 Estou em constante aprendizagem e aprimorando as minhas habilidades analíticas.
 - 📖 Amo estudar e aprender novas coisas para a minha vida.
 - 🏃 Amo correr e manter uma rotina saudável.
