@@ -1,7 +1,7 @@
 ## Olá, prazer em conhecer você! :wave:
 <img align="right" alt="GIF" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Code.gif" width="400" height="300" />
 
-Graduando em Ciência da Computação pela UNICSUL (Universidade Cruzeiro do Sul), iniciei minha jornada no universo dos dados aos 21 anos motivado pela paixão pelas áreas de matemática, estatística e programação, aliada à curiosidade pelo mundo da Inteligência Artificial.
+Analista de Dados com +2 anos de experiência e graduando em Ciência da Computação, iniciei minha jornada no universo dos dados aos 21 anos motivado pela paixão pelas áreas de matemática, estatística e programação, aliada à curiosidade pelo mundo da Inteligência Artificial.
 
 Em minha trajetória, busco aprimorar as minhas capacidades técnicas e analíticas através da realização de projetos pessoais, cursos, leituras e participações em eventos, refletindo o meu compromisso com o desenvolvimento profissional e com o meu sonho: <br> <br>
 **Aplicar meu conhecimento em dados para contribuir positivamente para a sociedade e o meio-ambiente.**
